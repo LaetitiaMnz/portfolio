@@ -818,8 +818,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/logo-copie-2000x1978.png",
-                "thumb": "@PROJECT_PATH@/assets/images/logo-copie-2000x1978-800x791.png",
+                "image": "@PROJECT_PATH@/assets/images/logo-2000x1978.png",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-2000x1978-800x791.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -857,8 +857,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/indymockups-18-1280x1920.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/indymockups-18-1280x1920-800x773.jpg",
+                "image": "@PROJECT_PATH@/assets/images/indymockups-19-1280x1920.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/indymockups-19-1280x1920-800x812.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -990,21 +990,21 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/miseensituationaffiche-2000x1385.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/miseensituationaffiche-2000x1385-800x554.jpg",
+                "image": "@PROJECT_PATH@/assets/images/miseensituationaffiche1-2000x1385.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/miseensituationaffiche1-2000x1385-800x554.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Mise en situation d'une des 3 affiches",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Impressionnant",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/miseensituationflyers-1-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/miseensituationflyers-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/miseensituationflyers1-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/miseensituationflyers1-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1022,7 +1022,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Site Web<br>",
-                "active": true
+                "active": false
               }
             ]
           }
